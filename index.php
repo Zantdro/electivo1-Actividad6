@@ -8,5 +8,9 @@ class tarea{
             return $n2;
        
     }
+    function menorDosNumeros($n1,$n2){
+        
+        return 0;
+    }
   
 }
